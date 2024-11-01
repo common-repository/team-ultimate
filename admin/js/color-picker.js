@@ -1,0 +1,3 @@
+jQuery(document).ready(function(){
+	jQuery("#company_website_input, #pe_team_title_color, #pe_team_location_color, #pe_team_memberbg_color, #pe_team_details_color, #pe_team_designation_color, #pe_team_socialicon_color, #pe_team_filter_menutext_color, #pe_team_socialicon_colorbg, #pe_team_filter_menubg_color, #pe_team_filter_menuhover_color, #pe_team_filter_menubghover_color, #pe_team_item_pagination_bgcolor, #pe_team_item_pagination_color, #pe_team_item_navbghovers_colors, #pe_team_item_navbg_colors, #pe_team_item_navtext_color_hover, #pe_team_item_navtext_color, #pe_team_email_color, #pe_team_email_hover_color, #pe_team_skills_textcolors, #pe_team_skills_linecolors, #pe_team_skills_hvrcolors, #pe_team_contact_color, #pe_team_overlaybg_color").wpColorPicker();
+});
